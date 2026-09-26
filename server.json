@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/gitlab",
   "title": "Gitlab",
   "description": "GitLab MCP — wraps the GitLab REST API v4 (BYO API key)",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "websiteUrl": "https://pipeworx.io/packs/gitlab",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-gitlab",
