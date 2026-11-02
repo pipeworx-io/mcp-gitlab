@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-gitlab",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "GitLab MCP — wraps the GitLab REST API v4 (BYO API key)",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "gitlab",
     "gatewaySlug": "gitlab",
-    "sourceHash": "v1-e752d91a286745fa927c9d3751b1ee2b83e8abcbe2541e92a8d0ef4302f82de4",
-    "sourceCommit": "4844029e402d6bd2fe735add8abf6d46735f8ed5"
+    "sourceHash": "v1-3626d1b971b5f9825c6f77fc9e3218edfc59ab955e32af37897cc51cccf29e53",
+    "sourceCommit": "030233f6b150a38a44421f88a5fcbad123f0fea8"
   }
 }
